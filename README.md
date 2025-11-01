@@ -153,15 +153,5 @@ Ces chiffres montrent l'importance d'une validation stricte des entrées, d'une 
   - Appliquer une politique de Content Security Policy (CSP) pertinente,
   - Valider côté serveur et normaliser les entrées côté client.
 
-- Ce document est une mise en forme Markdown d'une analyse existante extraite du script `samy_analysis_to_pdf.py`.
 
----
 
-### Sources et notes
-
-- Extrait d'une analyse technique fournie dans le dépôt (voir `samy_analysis_to_pdf.py`).
-- Date de génération : 2025-11-01
-
----
-
-_Fin du rapport._
